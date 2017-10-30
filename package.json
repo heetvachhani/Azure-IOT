@@ -1,0 +1,18 @@
+{
+  "name": "azure-iot",
+  "version": "1.0.0",
+  "description": "Learn Azure IOT by adding device and sending & receiving message from IOT hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hit Vachhani",
+  "license": "ISC",
+  "dependencies": {
+    "azure-event-hubs": "0.0.8",
+    "azure-iot-device": "^1.2.0",
+    "azure-iot-device-mqtt": "^1.2.1",
+    "azure-iothub": "^1.1.18",
+    "config": "^1.27.0"
+  }
+}
